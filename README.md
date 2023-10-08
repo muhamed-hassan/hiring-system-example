@@ -3,3 +3,14 @@
 ***
 
 **`Difficulty Level`**: [Research and development center 🌏 🌎 🌍](https://en.wikipedia.org/wiki/Research_and_development) that belongs to a [university](https://en.wikipedia.org/wiki/University).
+
+***
+***
+
+Another sub-system of the hiring-system should be filled from the employees of **Ministry of Manpower** in a country. This part is out of scope, as available legal:
+
+1. positions along with its [JD](https://en.wikipedia.org/wiki/Job_description). 
+
+2. organizations/corporations/companies. 
+
+Besides being able to update and delete them upon need.
