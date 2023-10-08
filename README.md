@@ -1,2 +1,1 @@
-# hiring-system-example
-Sample of an effective hiring system per country
+#### Please visit the wiki for more info https://github.com/muhamed-hassan/hiring-system-example/wiki
