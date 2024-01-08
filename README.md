@@ -14,3 +14,10 @@ Another sub-system of the hiring-system should be filled from the employees of *
 2. organizations/corporations/companies. 
 
 Besides being able to update and delete them upon need.
+
+***
+***
+***
+***
+
+**`FYI/FYA:`** Official documents shall be brought after the final acceptance 🎉 🌍 ✅ in the hiring process upon need. Just check from them what should be brought to avoid wasting your time because it shall not be brought during the interview process. Do not show them to anyone except the hiring-department staff.
