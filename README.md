@@ -21,3 +21,7 @@ Besides being able to update and delete them upon need.
 ***
 
 **`FYI/FYA:`** Official documents shall be brought after the final acceptance 🎉 🌍 ✅ in the hiring process upon need. Just check from them what should be brought to avoid wasting your time because it shall not be brought during the interview process. Do not show them to anyone except the hiring-department staff.
+
+***
+
+![1118774](https://github.com/muhamed-hassan/hiring-system-example/assets/17825804/5b766180-86d9-4c6b-9aff-594e03894c3f)
