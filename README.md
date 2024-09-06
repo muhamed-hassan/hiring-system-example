@@ -25,3 +25,5 @@ Besides being able to update and delete them upon need.
 ***
 
 ![1118774](https://github.com/muhamed-hassan/hiring-system-example/assets/17825804/5b766180-86d9-4c6b-9aff-594e03894c3f)
+
+![death_of_the_knight_by_warhollium_dhzcxjf-fullview](https://github.com/user-attachments/assets/7ac734ff-85d5-4efb-b641-e871334aa4a9)
