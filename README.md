@@ -15,6 +15,8 @@ Another sub-system of the hiring-system should be filled from the employees of *
 
 Besides being able to update and delete them upon need.
 
+[Private-sector is defined as groups of global and local terrorists. why the fuck the stole the job market !!!?? - think in current economical circumstances for a bit.](https://www.youtube.com/watch?v=Q6VyoTIzHqw) 
+
 ***
 ***
 ***
