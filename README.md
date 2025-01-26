@@ -7,7 +7,7 @@
 ***
 ***
 
-Another sub-system of the hiring-system should be filled from the employees of **Ministry of Manpower** in a country. This part is out of scope, as available legal:
+Another sub-system of the hiring-system should be filled from the employees of [**Ministry of Manpower**](https://www.youtube.com/watch?v=8JW1n_9FnP8) in a country. This part is out of scope, as available legal:
 
 1. [position](https://en.wikipedia.org/wiki/Work_(human_activity))s along with its [JD](https://en.wikipedia.org/wiki/Job_description). 
 
