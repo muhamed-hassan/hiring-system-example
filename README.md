@@ -2,7 +2,7 @@
 
 ***
 
-[PRIVATE-SECTOR ☠ 💩 🏳️‍🌈 🛡 ⚠ 🚫 ❌](https://github.com/muhamed-hassan/safe_planet/wiki/mercenaries-of-private%E2%80%90sector) is considered a global source of terrorism that negatively affects the economy of every country. It's the main source of [INTENTIONAL UNEMPLOYMENT ❌](https://en.wikipedia.org/wiki/Unemployment) per country.
+[PRIVATE-SECTOR ☠ 💩 🏳️‍🌈 🛡 ⚠ 🚫 ❌](https://github.com/muhamed-hassan/safe_planet/wiki/mercenaries-of-private%E2%80%90sector) is considered a global 🌍 source of terrorism that negatively affects the economy of every country. It's the main source of [INTENTIONAL UNEMPLOYMENT ❌](https://en.wikipedia.org/wiki/Unemployment) per country.
 
 ***
 
